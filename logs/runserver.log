@@ -1,0 +1,176 @@
+[13/May/2022 15:25:44] "POST /api/v1/testcase HTTP/1.1" 200 422
+[13/May/2022 15:25:46] "POST /api/v1/environment?p=1 HTTP/1.1" 200 219
+[13/May/2022 15:25:51] "POST /api/v1/testcase/running/523 HTTP/1.1" 200 45
+[13/May/2022 15:25:54] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 15:25:54] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 15:25:55] "POST /api/v1/result HTTP/1.1" 200 408
+[13/May/2022 15:26:37] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 15:26:37] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 15:26:37] "POST /api/v1/result HTTP/1.1" 200 408
+[13/May/2022 15:26:40] "POST /api/v1/result HTTP/1.1" 200 405
+[13/May/2022 15:26:42] "GET /admin/result/25399 HTTP/1.1" 200 3713
+[13/May/2022 15:26:42] "POST /api/v1/result/25399 HTTP/1.1" 200 764
+[13/May/2022 15:26:42] "POST /api/v1/result/25399 HTTP/1.1" 200 764
+[13/May/2022 15:26:42] "POST /api/v1/element/311 HTTP/1.1" 200 225
+[13/May/2022 15:26:42] "POST /api/v1/testcase/523 HTTP/1.1" 200 646
+[13/May/2022 15:27:11] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 15:27:12] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 15:27:12] "POST /api/v1/result HTTP/1.1" 200 405
+[13/May/2022 15:27:17] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 15:27:17] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 15:27:17] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 15:27:17] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 15:27:21] "POST /api/v1/testcase HTTP/1.1" 200 986
+[13/May/2022 15:27:23] "POST /api/v1/testcase HTTP/1.1" 200 1594
+[13/May/2022 15:27:28] "POST /api/v1/testcase HTTP/1.1" 200 986
+[13/May/2022 15:27:31] "POST /api/v1/environment?p=1 HTTP/1.1" 200 219
+[13/May/2022 15:27:36] "POST /api/v1/testcase/running/523 HTTP/1.1" 200 45
+[13/May/2022 15:28:24] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 15:28:24] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 15:28:24] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 15:28:24] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 15:28:25] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 15:28:26] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 15:28:26] "POST /api/v1/result HTTP/1.1" 200 402
+[13/May/2022 15:28:27] "GET /admin/result/25400 HTTP/1.1" 200 3713
+[13/May/2022 15:28:28] "POST /api/v1/result/25400 HTTP/1.1" 200 759
+[13/May/2022 15:28:28] "POST /api/v1/result/25400 HTTP/1.1" 200 759
+[13/May/2022 15:28:28] "POST /api/v1/element/311 HTTP/1.1" 200 225
+[13/May/2022 15:28:28] "POST /api/v1/testcase/523 HTTP/1.1" 200 646
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 1 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): Product.
+Run 'python manage.py migrate' to apply them.
+May 13, 2022 - 15:25:39
+Django version 2.1.11, using settings 'Autotest_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+[13/May/2022 15:30:20] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 15:30:20] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 15:30:20] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 15:30:20] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 15:30:25] "POST /api/v1/testcase HTTP/1.1" 200 1594
+[13/May/2022 15:30:28] "POST /api/v1/environment?p=1 HTTP/1.1" 200 219
+[13/May/2022 15:30:32] "POST /api/v1/testcase/running/522 HTTP/1.1" 200 45
+[13/May/2022 15:31:24] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 15:31:24] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 15:31:24] "POST /api/v1/result HTTP/1.1" 200 406
+[13/May/2022 15:31:26] "GET /admin/result/25401 HTTP/1.1" 200 3712
+[13/May/2022 15:31:26] "POST /api/v1/result/25401 HTTP/1.1" 200 868
+[13/May/2022 15:31:26] "POST /api/v1/result/25401 HTTP/1.1" 200 868
+[13/May/2022 15:31:26] "POST /api/v1/element/435 HTTP/1.1" 200 274
+[13/May/2022 15:31:26] "POST /api/v1/testcase/522 HTTP/1.1" 200 901
+[13/May/2022 15:31:35] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 15:31:35] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 15:31:35] "POST /api/v1/result HTTP/1.1" 200 406
+[13/May/2022 16:00:12] "GET /admin/result/25401 HTTP/1.1" 200 3712
+[13/May/2022 16:00:12] "POST /api/v1/result/25401 HTTP/1.1" 200 868
+[13/May/2022 16:00:12] "POST /api/v1/result/25401 HTTP/1.1" 200 868
+[13/May/2022 16:00:12] "POST /api/v1/element/435 HTTP/1.1" 200 274
+[13/May/2022 16:00:13] "POST /api/v1/testcase/522 HTTP/1.1" 200 901
+[13/May/2022 16:00:17] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:00:17] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:00:17] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:00:17] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 16:00:21] "POST /api/v1/testcase HTTP/1.1" 200 986
+[13/May/2022 16:00:26] "POST /api/v1/testcase HTTP/1.1" 200 1594
+[13/May/2022 16:00:39] "GET /admin/testcase/517 HTTP/1.1" 200 9396
+[13/May/2022 16:00:39] "POST /api/v1/testcase/517 HTTP/1.1" 200 668
+[13/May/2022 16:00:39] "POST /api/v1/element?p=1 HTTP/1.1" 200 312
+[13/May/2022 16:00:39] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:00:39] "POST /api/v1/keyword?p=1 HTTP/1.1" 200 1207
+[13/May/2022 16:00:39] "POST /api/v1/login?p=1 HTTP/1.1" 200 1424
+[13/May/2022 16:00:40] "POST /api/v1/page?p=1 HTTP/1.1" 200 3839
+[13/May/2022 16:00:47] "POST /api/v1/testcase HTTP/1.1" 200 401
+[13/May/2022 16:00:50] "POST /api/v1/environment?p=1 HTTP/1.1" 200 213
+[13/May/2022 16:00:55] "POST /api/v1/testcase/running/517 HTTP/1.1" 200 45
+[13/May/2022 16:00:58] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:00:58] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:00:58] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:00:58] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 16:01:01] "POST /api/v1/testcase HTTP/1.1" 200 986
+[13/May/2022 16:01:02] "POST /api/v1/testcase HTTP/1.1" 200 1594
+[13/May/2022 16:01:18] "GET /admin/testcase/522 HTTP/1.1" 200 9397
+[13/May/2022 16:01:18] "POST /api/v1/testcase/522 HTTP/1.1" 200 901
+[13/May/2022 16:01:18] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:01:18] "POST /api/v1/keyword?p=1 HTTP/1.1" 200 1207
+[13/May/2022 16:01:18] "POST /api/v1/login?p=1 HTTP/1.1" 200 1424
+[13/May/2022 16:01:19] "POST /api/v1/element?p=1 HTTP/1.1" 200 1232
+[13/May/2022 16:01:20] "POST /api/v1/page?p=1 HTTP/1.1" 200 3839
+[13/May/2022 16:01:37] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:01:38] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:01:38] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:01:38] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 16:01:42] "GET /admin/testcase/539 HTTP/1.1" 200 9396
+[13/May/2022 16:01:42] "POST /api/v1/testcase/539 HTTP/1.1" 200 581
+[13/May/2022 16:01:42] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:01:42] "POST /api/v1/login?p=1 HTTP/1.1" 200 1424
+[13/May/2022 16:01:42] "POST /api/v1/keyword?p=1 HTTP/1.1" 200 1207
+[13/May/2022 16:01:43] "POST /api/v1/page?p=1 HTTP/1.1" 200 3839
+[13/May/2022 16:01:46] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:01:47] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:01:47] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:01:47] "POST /api/v1/testcase HTTP/1.1" 200 1052
+[13/May/2022 16:01:57] "GET /api/v1/testcase/delete/539 HTTP/1.1" 200 44
+[13/May/2022 16:01:58] "POST /api/v1/testcase HTTP/1.1" 200 951
+[13/May/2022 16:02:02] "GET /admin/testcase/543 HTTP/1.1" 200 9397
+[13/May/2022 16:02:02] "POST /api/v1/testcase/543 HTTP/1.1" 200 463
+[13/May/2022 16:02:03] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:02:03] "POST /api/v1/login?p=1 HTTP/1.1" 200 1424
+[13/May/2022 16:02:03] "POST /api/v1/keyword?p=1 HTTP/1.1" 200 1207
+[13/May/2022 16:02:04] "POST /api/v1/page?p=1 HTTP/1.1" 200 3839
+[13/May/2022 16:02:15] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:02:15] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:02:15] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:02:15] "POST /api/v1/testcase HTTP/1.1" 200 951
+[13/May/2022 16:02:18] "GET /admin/testcase/542 HTTP/1.1" 200 9397
+[13/May/2022 16:02:18] "POST /api/v1/testcase/542 HTTP/1.1" 200 474
+[13/May/2022 16:02:19] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:02:19] "POST /api/v1/login?p=1 HTTP/1.1" 200 1424
+[13/May/2022 16:02:19] "POST /api/v1/keyword?p=1 HTTP/1.1" 200 1207
+[13/May/2022 16:02:20] "POST /api/v1/page?p=1 HTTP/1.1" 200 3839
+[13/May/2022 16:02:21] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:02:21] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:02:22] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:02:22] "POST /api/v1/testcase HTTP/1.1" 200 951
+[13/May/2022 16:02:24] "GET /admin/testcase/540 HTTP/1.1" 200 9395
+[13/May/2022 16:02:24] "POST /api/v1/testcase/540 HTTP/1.1" 200 639
+[13/May/2022 16:02:24] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:02:24] "POST /api/v1/keyword?p=1 HTTP/1.1" 200 1207
+[13/May/2022 16:02:24] "POST /api/v1/login?p=1 HTTP/1.1" 200 1424
+[13/May/2022 16:02:26] "POST /api/v1/page?p=1 HTTP/1.1" 200 3839
+[13/May/2022 16:02:33] "GET /admin/testcase HTTP/1.1" 200 6664
+[13/May/2022 16:02:33] "POST /api/v1/browser HTTP/1.1" 200 331
+[13/May/2022 16:02:33] "POST /api/v1/project?p=1 HTTP/1.1" 200 926
+[13/May/2022 16:02:33] "POST /api/v1/testcase HTTP/1.1" 200 951
+[13/May/2022 16:02:37] "POST /api/v1/testcase HTTP/1.1" 200 1037
+[13/May/2022 16:05:50] "GET /admin/result HTTP/1.1" 200 5194
+[13/May/2022 16:05:50] "POST /api/v1/project?p=0 HTTP/1.1" 200 926
+[13/May/2022 16:05:50] "POST /api/v1/result HTTP/1.1" 200 411
+[13/May/2022 16:05:53] "GET /admin/result/25402 HTTP/1.1" 200 3714
+[13/May/2022 16:05:53] "POST /api/v1/result/25402 HTTP/1.1" 200 748
+[13/May/2022 16:05:53] "POST /api/v1/result/25402 HTTP/1.1" 200 748
+[13/May/2022 16:05:53] "POST /api/v1/element/626 HTTP/1.1" 200 225
+[13/May/2022 16:05:53] "POST /api/v1/testcase/517 HTTP/1.1" 200 668
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 1 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): Product.
+Run 'python manage.py migrate' to apply them.
+May 13, 2022 - 15:30:17
+Django version 2.1.11, using settings 'Autotest_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 1 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): Product.
+Run 'python manage.py migrate' to apply them.
+May 13, 2022 - 17:54:54
+Django version 2.1.11, using settings 'Autotest_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.

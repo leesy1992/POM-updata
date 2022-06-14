@@ -1,0 +1,383 @@
+17:45:27.177 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+17:45:27.348 INFO [GridLauncherV3.lambda$buildLaunchers$5] - Launching Selenium Grid hub on port 5566
+2022-03-11 17:45:27.724:INFO::main: Logging initialized @980ms to org.seleniumhq.jetty9.util.log.StdErrLog
+17:45:28.753 INFO [Hub.start] - Selenium Grid hub is up and running
+17:45:28.753 INFO [Hub.start] - Nodes should register to http://192.168.20.23:5566/grid/register/
+17:45:28.753 INFO [Hub.start] - Clients should connect to http://192.168.20.23:5566/wd/hub
+17:45:30.282 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+18:35:32.783 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.20.23:4444
+10:16:14.856 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:17:06.887 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:18:24.911 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78024 milliseconds
+10:18:24.911 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:18:25.764 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:19:17.789 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:20:35.825 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78036 milliseconds
+10:20:35.825 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:20:36.715 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:21:28.725 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:22:46.746 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78021 milliseconds
+10:22:46.746 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:22:47.586 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:23:39.600 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:24:57.607 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78007 milliseconds
+10:24:57.607 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:24:58.587 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:25:50.598 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:27:08.651 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78053 milliseconds
+10:27:08.651 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:27:09.381 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:28:01.405 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:29:19.433 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78028 milliseconds
+10:29:19.433 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:29:20.133 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:30:12.168 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:31:30.185 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78017 milliseconds
+10:31:30.185 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:31:30.895 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:32:22.919 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:33:40.940 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78021 milliseconds
+10:33:40.940 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:33:41.700 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:34:33.741 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:35:51.751 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78010 milliseconds
+10:35:51.751 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:35:53.081 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:36:45.123 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:38:03.141 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78018 milliseconds
+10:38:03.141 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:38:03.781 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:38:55.794 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:40:13.812 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78018 milliseconds
+10:40:13.812 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:40:14.452 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:41:06.465 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:42:24.488 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78023 milliseconds
+10:42:24.488 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:44:10.994 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:45:03.002 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:46:21.015 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78013 milliseconds
+10:46:21.015 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:46:21.748 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:47:13.774 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:48:31.821 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78047 milliseconds
+10:48:31.821 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:56:25.052 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:57:17.077 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+10:58:35.108 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78031 milliseconds
+10:58:35.108 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+10:58:36.098 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+10:59:28.117 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:00:46.111 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 77994 milliseconds
+11:00:46.111 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:00:46.981 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:01:38.995 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:02:57.019 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78024 milliseconds
+11:02:57.019 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:02:57.812 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:03:49.826 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:05:07.847 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78021 milliseconds
+11:05:07.847 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:05:08.657 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:06:00.677 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:07:18.672 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 77995 milliseconds
+11:07:18.672 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:07:19.462 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:08:11.461 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:09:29.506 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78045 milliseconds
+11:09:29.506 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:09:30.256 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:10:22.276 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:11:40.291 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78015 milliseconds
+11:11:40.291 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:11:41.041 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:12:33.046 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:13:51.081 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78035 milliseconds
+11:13:51.081 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:13:51.883 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:14:43.894 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:16:01.929 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78035 milliseconds
+11:16:01.929 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:16:02.682 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:16:54.712 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:18:12.744 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78032 milliseconds
+11:18:12.744 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:18:13.474 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:19:05.493 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:20:23.505 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78012 milliseconds
+11:20:23.505 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:20:24.268 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:20:50.327 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+11:21:16.298 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:21:50.418 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.3.200:4444 because it's been down for 60091 milliseconds
+11:21:50.418 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+11:22:34.310 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78012 milliseconds
+11:22:34.310 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:22:35.030 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:23:27.042 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:24:45.065 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78023 milliseconds
+11:24:45.065 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:24:45.878 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:25:37.888 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:26:55.887 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 77999 milliseconds
+11:26:55.887 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:26:56.597 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:27:48.608 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:29:06.622 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78014 milliseconds
+11:29:06.622 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:29:07.332 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:29:59.381 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:31:17.386 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78005 milliseconds
+11:31:17.386 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:31:18.056 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:32:10.056 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:33:28.082 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78026 milliseconds
+11:33:28.082 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:33:28.862 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:34:20.869 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:35:38.907 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78038 milliseconds
+11:35:38.907 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:35:39.577 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:36:31.589 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:37:49.619 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78030 milliseconds
+11:37:49.619 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:37:50.369 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:38:42.378 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:40:00.385 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78007 milliseconds
+11:40:00.385 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:40:01.128 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:40:53.139 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:42:11.162 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78023 milliseconds
+11:42:11.162 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:42:11.914 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:43:03.935 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:44:21.976 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78041 milliseconds
+11:44:21.976 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+11:44:22.669 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+11:45:14.704 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+11:46:32.704 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78000 milliseconds
+11:46:32.704 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:39:09.786 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:40:01.825 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:41:19.853 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78028 milliseconds
+13:41:19.853 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:41:20.413 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:42:12.433 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:43:30.440 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78007 milliseconds
+13:43:30.440 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:43:31.060 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:44:23.095 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:45:41.103 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78008 milliseconds
+13:45:41.103 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:45:41.723 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:46:33.750 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:47:22.879 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.20.23:4444 as down: cannot reach the node for 2 tries
+13:47:51.798 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78048 milliseconds
+13:47:51.798 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:47:52.332 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:48:23.147 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.20.23:4444 because it's been down for 60268 milliseconds
+13:48:23.147 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.20.23:4444
+13:48:44.393 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:50:02.515 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78122 milliseconds
+13:50:02.515 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:50:03.221 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:50:55.356 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:52:13.409 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78053 milliseconds
+13:52:13.409 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:52:13.757 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:53:05.760 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:54:23.771 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78011 milliseconds
+13:54:23.771 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:54:24.320 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:55:16.346 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:56:34.421 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78075 milliseconds
+13:56:34.421 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:56:34.936 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:57:27.015 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+13:58:45.092 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78077 milliseconds
+13:58:45.092 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+13:58:45.498 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+13:59:37.564 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+14:00:55.679 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78115 milliseconds
+14:00:55.679 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+14:00:56.397 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+14:01:48.464 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+14:03:06.566 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78102 milliseconds
+14:03:06.566 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+14:03:07.034 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+14:03:59.107 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+14:05:17.162 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78055 milliseconds
+14:05:17.162 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+14:05:17.677 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+14:06:09.745 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+14:07:27.863 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78118 milliseconds
+14:07:27.863 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+14:07:28.237 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.31.32:4444
+14:08:20.324 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.31.32:4444 as down: cannot reach the node for 2 tries
+14:09:38.573 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.31.32:4444 because it's been down for 78249 milliseconds
+14:09:38.573 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.31.32:4444
+16:09:14.269 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+13:31:23.394 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+13:32:28.109 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.3.200:4444 because it's been down for 64715 milliseconds
+13:32:28.109 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+18:06:10.434 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+15:15:27.060 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+15:16:27.297 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.3.200:4444 because it's been down for 60237 milliseconds
+15:16:27.297 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+18:58:14.178 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.20.23:4444
+2022-03-30 19:00:32.490:WARN:osjs.HttpChannel:qtp603650290-15: /grid/register
+org.openqa.selenium.json.JsonException: Expected to read a START_MAP but instead have: END. Last 0 characters read: |Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'|System info: host: 'UBUNTU-PC', ip: '192.168.20.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_162'|Driver info: driver.version: unknown
+	at org.openqa.selenium.json.JsonInput.expect(JsonInput.java:290)
+	at org.openqa.selenium.json.JsonInput.beginObject(JsonInput.java:220)
+	at org.openqa.selenium.json.MapCoercer.lambda$apply$1(MapCoercer.java:64)
+	at org.openqa.selenium.json.JsonTypeCoercer.lambda$null$6(JsonTypeCoercer.java:145)
+	at org.openqa.selenium.json.JsonTypeCoercer.coerce(JsonTypeCoercer.java:126)
+	at org.openqa.selenium.json.Json.toType(Json.java:69)
+	at org.openqa.selenium.json.Json.toType(Json.java:55)
+	at org.openqa.selenium.json.Json.toType(Json.java:50)
+	at org.openqa.grid.web.servlet.RegistrationServlet.process(RegistrationServlet.java:83)
+	at org.openqa.grid.web.servlet.RegistrationServlet.doGet(RegistrationServlet.java:64)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Unknown Source)
+2022-03-30 19:02:20.898:WARN:osjs.HttpChannel:qtp603650290-13: /grid/register/
+org.openqa.selenium.json.JsonException: Expected to read a START_MAP but instead have: END. Last 0 characters read: |Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'|System info: host: 'UBUNTU-PC', ip: '192.168.20.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_162'|Driver info: driver.version: unknown
+	at org.openqa.selenium.json.JsonInput.expect(JsonInput.java:290)
+	at org.openqa.selenium.json.JsonInput.beginObject(JsonInput.java:220)
+	at org.openqa.selenium.json.MapCoercer.lambda$apply$1(MapCoercer.java:64)
+	at org.openqa.selenium.json.JsonTypeCoercer.lambda$null$6(JsonTypeCoercer.java:145)
+	at org.openqa.selenium.json.JsonTypeCoercer.coerce(JsonTypeCoercer.java:126)
+	at org.openqa.selenium.json.Json.toType(Json.java:69)
+	at org.openqa.selenium.json.Json.toType(Json.java:55)
+	at org.openqa.selenium.json.Json.toType(Json.java:50)
+	at org.openqa.grid.web.servlet.RegistrationServlet.process(RegistrationServlet.java:83)
+	at org.openqa.grid.web.servlet.RegistrationServlet.doGet(RegistrationServlet.java:64)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Unknown Source)
+19:13:02.264 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+2022-03-31 09:42:42.698:WARN:osjs.HttpChannel:qtp603650290-16: /grid/register/
+org.openqa.selenium.json.JsonException: Expected to read a START_MAP but instead have: END. Last 0 characters read: |Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'|System info: host: 'UBUNTU-PC', ip: '192.168.20.23', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_162'|Driver info: driver.version: unknown
+	at org.openqa.selenium.json.JsonInput.expect(JsonInput.java:290)
+	at org.openqa.selenium.json.JsonInput.beginObject(JsonInput.java:220)
+	at org.openqa.selenium.json.MapCoercer.lambda$apply$1(MapCoercer.java:64)
+	at org.openqa.selenium.json.JsonTypeCoercer.lambda$null$6(JsonTypeCoercer.java:145)
+	at org.openqa.selenium.json.JsonTypeCoercer.coerce(JsonTypeCoercer.java:126)
+	at org.openqa.selenium.json.Json.toType(Json.java:69)
+	at org.openqa.selenium.json.Json.toType(Json.java:55)
+	at org.openqa.selenium.json.Json.toType(Json.java:50)
+	at org.openqa.grid.web.servlet.RegistrationServlet.process(RegistrationServlet.java:83)
+	at org.openqa.grid.web.servlet.RegistrationServlet.doGet(RegistrationServlet.java:64)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Unknown Source)
+10:07:42.965 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.20.23:4444 as down: cannot reach the node for 2 tries
+13:56:27.906 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.20.23:4444 as down: cannot reach the node for 2 tries
+17:10:50.647 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.20.23:4444 as down: cannot reach the node for 2 tries
+17:11:50.895 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.20.23:4444 because it's been down for 60252 milliseconds
+17:11:50.895 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.20.23:4444
+06:23:48.951 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+06:25:07.083 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.3.200:4444 because it's been down for 78132 milliseconds
+06:25:07.083 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+17:11:28.464 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+17:11:41.622 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+17:11:41.622 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+17:12:58.676 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+17:13:10.063 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+17:13:10.063 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+18:26:43.360 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+18:26:50.271 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+18:26:50.271 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+18:47:59.308 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+18:48:00.119 INFO [DefaultGridRegistry.add] - Registered a node http://192.168.3.200:4444
+18:48:00.119 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
+19:19:25.779 INFO [DefaultRemoteProxy.onEvent] - Marking the node http://192.168.3.200:4444 as down: cannot reach the node for 2 tries
+19:20:26.130 INFO [DefaultRemoteProxy.onEvent] - Unregistering the node http://192.168.3.200:4444 because it's been down for 60351 milliseconds
+19:20:26.130 WARN [DefaultGridRegistry.removeIfPresent] - Cleaning up stale test sessions on the unregistered node http://192.168.3.200:4444
